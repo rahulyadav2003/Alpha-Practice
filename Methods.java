@@ -4,6 +4,6 @@ public class Methods {
         System.out.println(sum);
     }
     public static void main (String args){
-        add(3,5);   
+        add(3,5);  
     }
 }
