@@ -13,9 +13,9 @@ public class SizeOfDT {
             case 2:
                 System.out.println(a*b);
                 break;
-      default:
-        System.out.print("Wrong Entry");
-        break;
+             default:
+                System.out.print("Wrong Entry");
+                break;
 
     }
     sc.close();
